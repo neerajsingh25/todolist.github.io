@@ -1,0 +1,35 @@
+.main{
+    display: flex;
+    background-color: aqua;
+    flex-direction: column;
+    
+}
+
+.main-heading{
+    text-align: center;
+}
+
+.main-input{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.main-item{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.item{
+    background-color: blue;
+    text-align: center;
+}
+
+.mainhome{
+    background-color: bisque;
+}
+
+.home{
+    text-align: center;
+    background-color: aqua;
+    margin-top: 20rem;
+}
